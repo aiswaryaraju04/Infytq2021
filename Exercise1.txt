@@ -1,0 +1,19 @@
+Create a new Java project with "TraineeDetails.java" file and implement a Java code to display your name and designation in two separate lines.
+
+ 
+
+Sample Output
+
+My name is Maria Jerome.
+My designation is Systems Engineer.
+
+Program
+
+class Tester {
+	public static void main(String[] args) {
+		// Implement your code here
+		System.out.println("My name is Maria Jerome.\nMy designation is Systems Engineer.");
+	}
+}
+
+
